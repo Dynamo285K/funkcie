@@ -1,8 +1,9 @@
 def mean(a,b):
-    vys=1
-    vys*(a+b)/2
-    return vys
-    mean(1,4)
-print(mean)
+    v= (a+b)/2
+    return (v)
+
+
+mean(1,4)
+
 
 

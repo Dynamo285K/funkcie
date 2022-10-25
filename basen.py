@@ -6,9 +6,9 @@ def riadok(n,ret):
         pph = ph + 1
     else:
         pph = ph
-        print('*'*pph,end='')
-        print(ret, end='')
-        print('*'* ph,end='\n')
+    print('*'*pph,end='')
+    print(ret, end='')
+    print('*'* ph,end='\n')
 
 riadok(sir, 'Ján Botto')
 
